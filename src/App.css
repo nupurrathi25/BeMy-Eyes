@@ -1,0 +1,30 @@
+  *
+{
+    padding: 0;
+    margin: 0;
+}
+#app
+{
+    position:absolute;
+    width:100%;
+    height:100%;
+    text-align: center;
+}
+
+.Centerer
+{
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.Centered
+{   position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+
+
+ 
+
+
